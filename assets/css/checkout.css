@@ -1,0 +1,131 @@
+.checkout__main{
+    background-color:#f1f1f5
+}
+.box__checkout{
+    background-color:#fff;
+    padding:10px;
+}
+.mg-auto{
+    margin:0 auto
+}
+.title__checkout {
+    color: var(--html-bg-website);
+    border-bottom: 1px solid #ccc;
+}
+.title__checkout .icon-location-marker {
+    color: var(--html-bg-website);
+    fill: currentColor;
+}
+.title__checkout .title__inner {
+    font-size: 16px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.checkout__form .form__group{
+    margin-bottom:15px;
+}
+.checkout__form .form__group .title__input{
+    margin-bottom:7px;
+}
+.checkout__form .form__group .form__input .input{
+    width: 100%;
+    padding:10px;
+    border:1px solid #ccc;
+    border-radius:4px;
+    resize: none;
+}
+.box__form__checkout{
+    border:1px solid #ccc;
+    border-top:2px solid var(--html-bg-website)
+}
+.radio-inline {
+    padding-left: 20px;
+    position: relative;
+    display: block;
+}
+.item__checkout .radio-inline span{
+    color: #333;
+    font-family: 'Roboto',sans-serif;
+    font-size: 13px;
+    line-height: 1.2;
+    font-weight: 400
+}
+.item__checkout input[type=radio] {
+    -webkit-appearance: radio;
+    appearance: radio;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    width: 16px;
+    height: 16px;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    background-color: #326e51;
+    display: inline-block;
+    vertical-align: middle;
+    position: absolute;
+    top: -1px;
+    left: 0;
+}
+.item__list__order .thumb__order{
+    width:20%;
+    padding:0 10px;
+}
+.item__list__order .info__order {
+    width: 40%;
+}
+.item__list__order .name__order{
+    color: #333;
+    font-family: 'Roboto',sans-serif;
+    font-size: 13px;
+    line-height: 1.2;
+    font-weight: 400;
+}
+.item__list__order .price__order{
+    width: 40%;
+    color: #333;
+    font-family: 'Roboto',sans-serif;
+    font-size: 13px;
+    line-height: 1.2;
+    font-weight: 400;
+    padding:0 10px
+}
+.temp__checkout .price__total,
+.item__list__order .price__order .price{
+    color:#f00
+}
+.temp__checkout{
+    padding:10px;
+}
+.temp__price{
+    color: #333;
+    font-family: 'Roboto',sans-serif;
+    font-size: 13px;
+    line-height: 1.2;
+    font-weight: 400;
+}
+.sticky__order{
+    position:sticky;
+    top:50px;
+    z-index:12
+}
+.form__btn__order{
+    padding:0 10px;
+}
+.form__btn__order button{
+    display: inline-block;
+    border-radius: 3px;
+    font-size: 14px;
+    padding: 7px 10px;
+    border: 1px solid #fe6700;
+    color: #fff;
+    background: #fe6700;
+    width: 100%;
+    text-transform: uppercase;
+    cursor: pointer;
+    margin-bottom:10px;
+    z-index: 10
+}

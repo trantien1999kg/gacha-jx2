@@ -1,0 +1,37 @@
+@font-face {
+
+    font-family: 'UTMAvo';
+
+    src: url('../../../images/fonts/UTMAvo.eot');
+
+    src: url('../../../images/fonts/UTMAvo.eot') format('embedded-opentype'), url('../../../images/fonts/UTMAvo.ttf') format('truetype'), url('../../../images/fonts/UTMAvo.svg#UTMAvo') format('svg');
+
+}
+
+@font-face {
+
+    font-family: 'SVN-COOKIES';
+
+    src: url('../../../images/fonts/SVN-COOKIES.TTF');
+}
+@font-face {
+
+    font-family: 'SVNSIGNATURE';
+
+    src: url('../../../images/fonts/SVN_QALISHA_SIGNATURE_SCRIPT.OTF');
+}
+@font-face {
+
+    font-family: 'SVN_SCRIPT';
+
+    src: url('../../../images/fonts/SVN_SCRIPT.otf');
+}
+@font-face {
+
+    font-family: 'UTMAvoBold';
+
+    src: url('../../../images/fonts/UTMAvoBold.eot');
+
+    src: url('../../../images/fonts/UTMAvoBold.eot') format('embedded-opentype'), url('../../../images/fonts/UTMAvoBold.ttf') format('truetype'), url('../../../images/fonts/UTMAvoBold.svg#UTMAvoBold') format('svg');
+
+}
